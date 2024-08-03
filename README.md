@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://developerjaskaran.netlify.app/](https://developerjaskaran.netlify.app/)
 
-- 💬 Ask me about **React.js, Node.js, Express.js, Scss, MongoDb, Next.js, Tailwindcss**
+- 💬 Ask me about **React.js, Node.js, Express.js, Scss, MongoDb, Postgres, Prisma, Hono, Cloudflare workers, Next.js, Tailwindcss, Shadcn**
 
 - 📫 How to reach me **dhillonjaskaran4486@gmail.com**
 
